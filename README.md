@@ -1,0 +1,1 @@
+# Where to view the August 12, 2026 total solar eclipse
