@@ -5,18 +5,24 @@ description = "Analysis of optimal locations for viewing solar eclipses"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "beautifulsoup4>=4.13.4",
     "cartopy>=0.24.1",
     "fiona>=1.10.1",
     "folium>=0.20.0",
     "geopandas>=1.1.1",
+    "lxml>=6.0.0",
     "mapclassify>=2.10.0",
     "netcdf4>=1.7.2",
     "notebook>=7.4.4",
+    "osmnx>=2.0.5",
+    "pip>=25.2",
     "plotly>=6.2.0",
     "polars>=1.31.0",
     "pyarrow>=21.0.0",
     "rasterio>=1.4.3",
     "rioxarray>=0.19.0",
     "scipy>=1.16.0",
+    "spacy>=3.8.7",
+    "wikipedia>=1.4.0",
     "xarray>=2025.7.1",
 ]
